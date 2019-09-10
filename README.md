@@ -31,20 +31,20 @@ The highest accuracy 0.8508 was achieved by the model m-25012018-123527 (see the
 
 | Pathology     | AUROC         |
 | ------------- |:-------------:|
-| Atelectasis   | 0.8321        |
-| Cardiomegaly  | 0.9107        |
-| Effusion      | 0.8860        |
-| Infiltration  | 0.7145        |
-| Mass          | 0.8653        |
-| Nodule        | 0.8037        |
-| Pneumonia     | 0.7655        |
-| Pneumothorax  | 0.8857        |
-| Consolidation | 0.8157        |
-| Edema         | 0.9017        |
-| Emphysema     | 0.9422        |
-| Fibrosis      | 0.8523        |
-| P.T.          | 0.7948        |
-| Hernia        | 0.9416        |
+| Atelectasis   | 0.8316        |
+| Cardiomegaly  | 0.9164        |
+| Effusion      | 0.8861        |
+| Infiltration  | 0.7141        |
+| Mass          | 0.8686        |
+| Nodule        | 0.8081        |
+| Pneumonia     | 0.7737        |
+| Pneumothorax  | 0.8869        |
+| Consolidation | 0.8175        |
+| Edema         | 0.9014        |
+| Emphysema     | 0.9393        |
+| Fibrosis      | 0.8521        |
+| P.T.          | 0.7917        |
+| Hernia        | 0.9385        |
 
 ## Computation time
 The training was done using single Tesla P100 GPU and took approximately 22h.
